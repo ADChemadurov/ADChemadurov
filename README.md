@@ -13,7 +13,7 @@
 - Телефон/WhatsApp: +7 (916) 362-69-72
 
 ### Мои ключевые проекты в портфолио :trophy::
-- [Backend сервиса по размещению рецептов](https://github.com/ADChemadurov/foodgram-project-react)
+- [Backend сервиса по размещению рецептов](https://github.com/ADChemadurov/Foodgram)
 - [Backend для сайта по публикации отзывов на книги, фильмы и музыку](https://github.com/ADChemadurov/yamdb_final)
 - [Мини-соцсеть с функцией блога](https://github.com/ADChemadurov/yatube_final)
 - [API для мини-соцсети упомянутой выше](https://github.com/ADChemadurov/api_final_yatube)
